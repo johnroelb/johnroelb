@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John Roel Barretto</h1>
-<h3 align="center">A passionate programmer who strive to do the best going above and beyond the expectations. Currently QA Jobs or Internships.</h3>
+<h3 align="center">A passionate programmer who strive to do the best going above and beyond the expectations. Currently looking for QA Jobs or Internships.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
